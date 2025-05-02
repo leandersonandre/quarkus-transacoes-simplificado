@@ -1,9 +1,7 @@
 package com.leandersonandre.controller;
 
 import com.leandersonandre.entity.Carteira;
-import com.leandersonandre.entity.Usuario;
 import com.leandersonandre.repository.CarteiraRepository;
-import com.leandersonandre.repository.UsuarioRepository;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
